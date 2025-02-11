@@ -7,3 +7,6 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Machine Learning / AI development
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines branches and keeps all history, while rebasing moves your changes to the tip of another branch for a cleaner timeline
